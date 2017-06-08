@@ -1,2 +1,18 @@
-# auth-graphql-starter
-Starter project from a GraphQL course on Udemy.com - Section 3!
+# Simple GraphQL Auth
+
+Based on course: https://www.udemy.com/graphql-with-react-course/
+
+### Used Technologies
+
+JS6, react, babel, webpack, GraphQL, Apollo, graphql-tag, react-router, node, express, mongoose, mongodb
+
+### Getting Started
+
+Checkout this repo, install dependencies, then start the webpack process with the following:
+
+```
+> git clone https://github.com/Fendoro/SimpleGraphQLAuth.git
+> cd SimpleGraphQLAuth
+> npm install
+> npm run dev
+```
