@@ -4,7 +4,7 @@ Based on course: https://www.udemy.com/graphql-with-react-course/
 
 ### Used Technologies
 
-JS6, react, babel, webpack, GraphQL, Apollo, graphql-tag, react-router, node, express, mongoose, mongodb
+ES6, react, babel, webpack, GraphQL, Apollo, graphql-tag, react-router, node, express, mongoose, mongodb
 
 ### Getting Started
 
